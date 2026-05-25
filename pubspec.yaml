@@ -1,4 +1,6 @@
-name: telegram_emoji_converter
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+  name: telegram_emoji_converter 
 description: Telegram video emoji WEBM VP9 converter
 publish_to: "none"
 
